@@ -43,6 +43,8 @@ Pairwise relationships between numerical features revealed that **petal-related 
 
 Histogram and kernel density estimation (KDE) plots demonstrated that **petal features provide strong separability between species**, whereas sepal features show partial overlap.
 
+<img width="703" height="497" alt="image" src="https://github.com/user-attachments/assets/98b4a408-3d29-4e71-a55f-a76ce03d16f1" />
+
 ---
 
 ## Outlier Detection and Data Cleaning
